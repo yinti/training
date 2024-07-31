@@ -1,0 +1,9 @@
+{
+	"name": "gtdemo",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "47d0d0e4-16cc-4717-901a-9569dbe1bb6e",
+		"tenantId": "f6d8b70c-b5d9-4a84-8124-adabf3789b89"
+	}
+}
